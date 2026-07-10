@@ -1,26 +1,17 @@
-# Second-Brain
-A personal knowledge base where I document what I learn in computer science, software development, cybersecurity, mathematics, and technology. This repository serves as my second brain—a collection of notes, tutorials, code snippets, cheat sheets, and project documentation that I can reference and build upon throughout my learning journey.
+# PoE2 Notes
 
-## File system structure
+Welcome to **PoE2 Notes**!
 
-```text
-.
-├── inbox/       # quick capture before processing
-├── notes/       # evergreen notes
-├── projects/    # project-specific notes and docs
-├── areas/       # long-term responsibilities
-├── resources/   # references, links, and source material
-├── archive/     # inactive/finished material
-├── templates/   # reusable note templates
-└── assets/      # images and other media
-```
+This repository is my personal knowledge base for **Path of Exile 2**.
+It contains notes, crafting guides, farming strategies, build ideas, and
+other information that I collect while learning the game.
 
-## Quick workflow
+The goal is to keep everything organized in one place so I can quickly
+Reference it while playing and continue improving over time.
 
-1. Capture ideas in `inbox/`.
-2. Process notes into `notes/`, `projects/`, `areas/`, or `resources/`.
-3. Move inactive material to `archive/`.
-
-## Notes
-
+## Table of Contents
 - [Jewel](Jewel.md)
+
+## Contributing 
+This repository is primarily for my personal notes, but it is open to improvements. Just send in a pull request, and I will check it out.
+
